@@ -1,5 +1,28 @@
-# 💫 About Me:
-### 👨‍🚀 Hi, I'm Nitheesh Kumar Senthilnathan!<br><br>---<br><br>- 🛰️ **I'm currently working on:Robotics projects, particularly space robots and autonomous robotic systems.<br>  <br>- 👯 *I'm looking to collaborate on:*Robotics projects, drone technology, and innovative space robotics applications.<br><br>- 🤝 *I'm looking for help with:*Expanding knowledge and practical experiences related to advanced robotic systems and drone technologies.<br><br>- 🌱 *I'm currently learning:* New advancements in robotics, drones, AI-driven robotic control systems, and technology developments in space exploration.<br><br>- 💬 *Ask me about:* Space robotics, autonomous drones, astrophysics, and emerging robotic technologies.<br><br>- ⚡ *Fun fact:* I hold degrees in both MSc Robotics and MSc Astrophysics and I'm passionate about blending these two fields in unique ways!<br><br>---<br>
+# 💫 About Me
+### 👨‍🚀 Hi, I'm Nitheesh Kumar Senthilnathan!
+
+---
+
+- 🛰️ **Currently working on:**  
+  Robotics projects, particularly in space robotics and autonomous robotic systems.
+
+- 👯 **Looking to collaborate on:**  
+  Robotics initiatives, drone technology, and innovative applications in space exploration.
+
+- 🤝 **Seeking help with:**  
+  Expanding my knowledge and hands-on experience in advanced robotic systems and drone technologies.
+
+- 🌱 **Currently learning:**  
+  The latest advancements in robotics, autonomous drones, AI-driven robotic control systems, and space technology.
+
+- 💬 **Ask me about:**  
+  Space robotics, autonomous drones, astrophysics, and emerging trends in robotics.
+
+- ⚡ **Fun fact:**  
+  I hold degrees in both MSc Robotics and MSc Astrophysics — and I’m passionate about blending these two fields in creative and impactful ways!
+
+---
+
 
 
 # 💻 Tech Stack:
